@@ -1,0 +1,11 @@
+body {
+    margin: 25px;
+    background-color: lightblue;
+    font-family: arial, sans-serif;
+    font-size: 15px;
+  }
+  h1 {
+    font-size: 35px;
+    color: darkblue;
+    margin-top: 15px;
+  }
