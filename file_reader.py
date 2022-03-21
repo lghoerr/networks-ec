@@ -24,7 +24,7 @@ class FileReader:
 
     def head(self, filepath, cookies):
         import os
-        response = "HTTP/1.1 "
+        response = "HTTP/1.1 Lgh4gc"
         if os.path.exists(filepath) == False:
             response = response + "404 Not Found\r\n"
         if os.path.exists(filepath):
