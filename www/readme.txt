@@ -1,0 +1,1 @@
+Hi! My Multimedia artifact can be foud at /examplepng.png. This is a picture I took of my goldendoodle Petunia who is incredible and adorable. 
