@@ -2,7 +2,6 @@
 import socket
 import sys
 import select
-from urllib import response
 
 from file_reader import FileReader
 
